@@ -14,6 +14,8 @@
 		227166931EE566B5006CB968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 227166911EE566B5006CB968 /* LaunchScreen.storyboard */; };
 		2271669E1EE566B5006CB968 /* NavigationBarCustomSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2271669D1EE566B5006CB968 /* NavigationBarCustomSwiftTests.swift */; };
 		227166A91EE566B5006CB968 /* NavigationBarCustomSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227166A81EE566B5006CB968 /* NavigationBarCustomSwiftUITests.swift */; };
+		227166B71EE568A0006CB968 /* imgicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 227166B61EE568A0006CB968 /* imgicon.png */; };
+		227166B91EE56B45006CB968 /* info.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 227166B81EE56B45006CB968 /* info.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		227166A41EE566B5006CB968 /* NavigationBarCustomSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationBarCustomSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		227166A81EE566B5006CB968 /* NavigationBarCustomSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarCustomSwiftUITests.swift; sourceTree = "<group>"; };
 		227166AA1EE566B5006CB968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		227166B61EE568A0006CB968 /* imgicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imgicon.png; sourceTree = "<group>"; };
+		227166B81EE56B45006CB968 /* info.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = info.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		227166871EE566B5006CB968 /* NavigationBarCustomSwift */ = {
 			isa = PBXGroup;
 			children = (
+				227166B81EE56B45006CB968 /* info.jpg */,
+				227166B61EE568A0006CB968 /* imgicon.png */,
 				227166881EE566B5006CB968 /* AppDelegate.swift */,
 				2271668A1EE566B5006CB968 /* ViewController.swift */,
 				2271668C1EE566B5006CB968 /* Main.storyboard */,
@@ -232,6 +238,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227166B71EE568A0006CB968 /* imgicon.png in Resources */,
+				227166B91EE56B45006CB968 /* info.jpg in Resources */,
 				227166931EE566B5006CB968 /* LaunchScreen.storyboard in Resources */,
 				227166901EE566B5006CB968 /* Assets.xcassets in Resources */,
 				2271668E1EE566B5006CB968 /* Main.storyboard in Resources */,
